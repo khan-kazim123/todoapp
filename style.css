@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34;
+    margin-top: 20%;
+}
+button{
+    size: 100px;
+    height: 30%;
+    width: 30%;
+    font-size: 27;
+}
+input{
+    height: 15%;
+    width: 15%;
+    font-size: 24;
+}
